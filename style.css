@@ -1,0 +1,26 @@
+.hidden {
+  background-color: gray;
+  color: gray;
+  background-color: white;
+}
+
+.section-a {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+}
+
+.section-b {
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+}
+
+button{
+   padding: 10px ;
+   background-color: aqua;
+   border-radius: 1px;
+   color: firebrick;
+  border-color: brown;
+   
+}
